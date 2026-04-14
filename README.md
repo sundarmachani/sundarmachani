@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-**Software Engineer** (MS CS, Illinois Institute of Technology) with production experience building scalable, secure, and high-reliability systems.
+**Software Engineer** with production experience building scalable, secure, and high-reliability systems.
 
 I specialize in **Java/Spring Boot microservices**, **REST APIs**, and **backend performance optimization**, while delivering end-to-end features with **React**.  
 
@@ -99,8 +99,5 @@ https://github.com/sundarmachani/StoryVault
 
 ---
 
-## 📫 Let’s Connect
-
-- 🌐 Portfolio: https://sundar-machani.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/sundar-machani/  
+## 📫 Let’s Connect 
 - 📧 Email: sundarmachani@gmail.com
